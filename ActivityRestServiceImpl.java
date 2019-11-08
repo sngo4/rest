@@ -23,7 +23,7 @@ public class ActivityRestServiceImpl implements ActivityRestService {
 	private static final String MEMBER_RESOURCE = "v1/members";
 	private static final String NOTIFICATION_RESOURCE = "/notifications";
 	
-	//this is comments
+	//this is comments Phen
 	private HttpHeaders getProperties() {
 		InputStream fis;
 		Properties restUrlProperties = new Properties();
